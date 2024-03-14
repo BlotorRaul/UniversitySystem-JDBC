@@ -1,6 +1,16 @@
 package main;
 
 public class User {
+    private String id;
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
     private String nume;
     private String prenume;
     private String username;//Nickname

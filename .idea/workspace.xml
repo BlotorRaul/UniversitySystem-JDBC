@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c0cf2ef-a54b-401b-9b46-44046cda024f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UniversitySystem-JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ProfessorData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/Activitati.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/Activitati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/AsignareActivitati.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/AsignareActivitati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/Calendar.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/Catalog.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/InscriereProfMaterie.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/InscriereProfMaterie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/InscriereStudMaterie.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/InscriereStudMaterie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/ParasesteStudCurs.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/ParasesteStudCurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/StergereStudMaterie.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/StergereStudMaterie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/VizualizareCatalog.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/VizualizareCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/datePersonaleProf.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/forms/datePersonaleProf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_221.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/education.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/photo/education.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/photo/login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/forms/LoginForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/forms/LoginForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/forms/LoginForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/forms/LoginForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/forms/ProfesorForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/forms/ProfesorForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/forms/ProfesorForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/forms/ProfesorForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/forms/RegistrationForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/forms/RegistrationForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/forms/RegistrationForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/forms/RegistrationForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/forms/StudentForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/forms/StudentForm.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/forms/StudentForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/forms/StudentForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/helpers/ConnectionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/helpers/ConnectionHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/new-account.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/photo/new-account.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2awUbEHHPTZCiEDjiaYWSo06NFW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "D:/JAVA/An2/Sem1/PROIECTJDBC/UniversitySystem-JDBC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\An2\Sem1\PROIECTJDBC\UniversitySystem-JDBC\src\main\photo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="UniversitySystem-JDBC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c0cf2ef-a54b-401b-9b46-44046cda024f" name="Changes" comment="" />
+      <created>1705229205207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705229205207</updated>
+      <workItem from="1705229206322" duration="33995000" />
+      <workItem from="1705428807308" duration="25295000" />
+      <workItem from="1710452585607" duration="989000" />
+      <workItem from="1710453625738" duration="356000" />
+      <workItem from="1710454272031" duration="413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

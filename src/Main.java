@@ -5,9 +5,12 @@ import main.forms.WelcomeForm;
 
 public class Main {
 
+
     public static void main(String[] args) {
         WelcomeForm welcomeForm = new WelcomeForm(null);
         welcomeForm.setVisible(true);
+
+
         //RegistrationForm myform = new RegistrationForm(null);
 //        User user = myform.user;
 //        if(user != null)

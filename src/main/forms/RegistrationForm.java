@@ -52,11 +52,11 @@ public class RegistrationForm extends JDialog {
                         administratorForm.setVisible(true);
 
                     } else if (user.getNivelAccesibilitate().equals("Profesor")) {
-                        ProfesorForm profesorForm = new ProfesorForm(null);
+                        ProfesorForm profesorForm = new ProfesorForm(null,user);
                         dispose();
                         profesorForm.setVisible(true);
                     } else if (user.getNivelAccesibilitate().equals("Student")) {
-                        StudentForm studentForm = new StudentForm(null);
+                        StudentForm studentForm = new StudentForm(null,user);
                         dispose();
                         studentForm.setVisible(true);
                     } else {

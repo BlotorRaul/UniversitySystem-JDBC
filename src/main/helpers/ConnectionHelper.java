@@ -4,9 +4,9 @@ import java.sql.*;
 
 public class ConnectionHelper {
 
-    private static final String url = "jdbc:mysql://localhost:3306/PROIECT";
+    private static final String url = "jdbc:mysql://localhost:3306/proiectfinal";
     private static final String user = "root";
-    private static final String password = "";
+    private static final String password = "parolaTa";
 
     private Connection connection;
 
